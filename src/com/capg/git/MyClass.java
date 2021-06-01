@@ -8,6 +8,8 @@ public class MyClass {
 		System.out.println("This is get demo");
 		System.out.println("Welcome");
 		System.out.println("one line added");
+		System.out.println("my class is created");
+		
 
 	}
 
